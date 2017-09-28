@@ -219,7 +219,7 @@ function createInstructions() {
 
 	text = document.createElement( 'div' );
 	text.onSelectStart = null;
-	text.innerHTML = '<span style="color:' + theme[0] + ';font-size:50px;">happy every day ^_^</span>;<br /><br />'
+	text.innerHTML = '<span style="color:' + theme[0] + ';font-size:50px;">Happy every day! ^_^</span>;<br /><br />'
 	text.style.color = theme[1];
 	text.style.position = 'absolute';
 	text.style.left = '0px';
